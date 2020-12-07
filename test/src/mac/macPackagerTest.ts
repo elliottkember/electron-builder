@@ -16,7 +16,7 @@ test.ifMac.ifAll("two-package", () => assertPack("test-app", {
       electronLanguages: ["bn", "en"]
     },
     //tslint:disable-next-line:no-invalid-template-strings
-    artifactName: "${name}-${version}-${os}-${arch}.${ext}",
+    artifactName: "${name}-${version}-${arch}-${os}.${ext}",
   },
 }, {
   signed: true,
