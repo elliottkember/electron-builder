@@ -837,7 +837,7 @@ Object {
               "size": 765,
             },
             "ini.js": Object {
-              "size": 4767,
+              "size": 5000,
             },
             "package.json": Object {
               "size": 458,
@@ -947,10 +947,10 @@ Object {
               "size": 3023,
             },
             "license.md": Object {
-              "size": 1077,
+              "size": 1079,
             },
             "package.json": Object {
-              "size": 470,
+              "size": 497,
             },
           },
         },
